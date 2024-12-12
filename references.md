@@ -1,11 +1,3 @@
-# References 2
-Octocat
+# References
 
-
-
-
-
-
-
-
-Commit to test conflict
+* octocat 1 😈
